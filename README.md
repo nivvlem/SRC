@@ -19,4 +19,4 @@ Pour un accès rapide aux commandes, protocoles, outils et configurations spéci
 ---
 
 🛠 Généré avec [Docsify](https://docsify.js.org)  
-📬 Maintenu par **nivvlem** — [melvin.desflaches@ymail.com](mailto:melvin.desflaches@ymail.com)
+📬 Maintenu par **nivvlem**
